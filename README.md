@@ -4,7 +4,7 @@
 
 **Languages and Tools**<br/>
 <img align="left" title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
-<img align="left" title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
+<img align="left" title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
 
 <!--
 **aratik711/aratik711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
