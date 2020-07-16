@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**Languages**<br/>
+**Languages**<br/>. 
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
 <img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
 <img title="Perl" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
