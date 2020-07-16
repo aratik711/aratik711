@@ -3,14 +3,14 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages**<br/>
-<img align="left" title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
-<img align="left" title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
-<img align="left" title="Perl" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
+<img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
+<img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
+<img title="Perl" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
 <br/>
-**Tools**<br/>
-<img align="left" title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/docker.svg" />
-<img align="left" title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
-<img align="left" title="Perl" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
+<br/>**Tools**<br/>
+<img title="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/docker.svg" />
+<img title="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" />
+<img title="Perl" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
 
 <!--
 **aratik711/aratik711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
