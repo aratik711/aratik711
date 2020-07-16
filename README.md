@@ -1,4 +1,5 @@
-### Hi there, I'm Arati 👋
+### Hi there, I'm Arati <img src="https://media.giphy.com/media/20PA8HwdrWlgL6AzbU/giphy.gif" width="50">
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
