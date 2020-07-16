@@ -1,7 +1,17 @@
 ### Hi there, I'm Arati <img src="https://media.giphy.com/media/20PA8HwdrWlgL6AzbU/giphy.gif" width="50">
 
+### 🔭 I’m currently working on
+Automating stuff (From user creation to deploying data centers)
+### 🌱 I’m currently learning
+Python, Ansible, Terraform, Azure
+### 👯 I’m looking to collaborate on
+Any interesting techology :)
+### 💬 Ask me about
+DevOps/SRE/Personal Financing/Movies
+### 📫 How to reach me
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡ Fun fact: ...
+
 
 **Languages**<br/><br/>
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
@@ -24,6 +34,8 @@
 <img title="OpenVPN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/openvpn.svg" />
 <img title="Redis" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/redis.svg" />
 <img title="Nginx" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nginx.svg" />
+
+[![Arati's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aratik711/aratik711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
