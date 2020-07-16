@@ -9,7 +9,7 @@ Any interesting techology :)
 ### 💬 Ask me about
 DevOps/SRE/Personal Financing/Movies
 ### 📫 How to reach me
-
+[<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />]
 ### ⚡ Fun fact: ...
 
 
