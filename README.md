@@ -7,7 +7,7 @@ Python, Ansible, Terraform, Azure
 ### 👯 I’m looking to collaborate on
 Any interesting techology :)
 ### 💬 Ask me about
-DevOps/SRE/Personal Financing/Movies
+DevOps/SRE/Personal Financing/Movies/Books(Non-Fictional)
 ### 📫 How to reach me
 [<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />]
 ### ⚡ Fun fact: ...
