@@ -13,7 +13,8 @@ DevOps/SRE/Personal Financing/Movies/Books(Non-Fictional)
 [<img title="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/apassionatechiev)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />](https://apassionatechie.wordpress.com/)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7840437/arati-kulkarni)
-### ⚡ Fun fact: ...
+### ⚡ Fun fact:
+"othig is actually o fire. Fire is on things" <img src="https://media.giphy.com/media/4bpK2k0Yru5Us/giphy.gif" width="50">
 
 
 **Languages**<br/><br/>
