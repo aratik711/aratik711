@@ -10,6 +10,8 @@ Any interesting techology :)
 DevOps/SRE/Personal Financing/Movies/Books(Non-Fictional)
 ### 📫 How to reach me
 [<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/aratikulkarni7/)
+[<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/apassionatechiev)
+[<img title="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />](https://apassionatechie.wordpress.com/)
 ### ⚡ Fun fact: ...
 
 
