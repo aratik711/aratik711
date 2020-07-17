@@ -14,8 +14,8 @@ DevOps/SRE/Personal Financing/Movies/Books(Non-Fictional)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />](https://apassionatechie.wordpress.com/)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7840437/arati-kulkarni)
 ### ⚡ Fun fact:
-"othig is actually o fire. Fire is on things" <img src="https://media.giphy.com/media/4bpK2k0Yru5Us/giphy.gif" width="50">
-
+"Nothing is actually on fire. Fire is on things" <br/>
+<img src="https://media.giphy.com/media/4bpK2k0Yru5Us/giphy.gif" width="100">
 
 **Languages**<br/><br/>
 <img title="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" />
