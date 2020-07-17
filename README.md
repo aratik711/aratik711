@@ -28,7 +28,6 @@ DevOps/SRE/Personal Financing/Movies
 <img title="Terraform" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/terraform.svg" />
 <img title="RabbitMQ" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/rabbitmq.svg" />
 <img title="ELK" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/elastic.svg" />
-<img title="Aerospike" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/perl.svg" />
 <img title="Helm" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/helm.svg" />
 <img title="Grafana" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/grafana.svg" />
 <img title="OpenVPN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/openvpn.svg" />
