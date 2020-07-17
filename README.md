@@ -1,6 +1,6 @@
 ### Hi there, I'm Arati <img src="https://media.giphy.com/media/20PA8HwdrWlgL6AzbU/giphy.gif" width="50">
 For the past 5 years I have been helping engineers, Tech Startups and Entrepreneurs in DevOps, Cloud, and Automation.<br/>
-I lead a DevOps team for Data Center Migration at Atos. Have worked closely with 5 of Fortune 500 clients. <img src="https://media.giphy.com/media/l0Wzs8nQIJyww/giphy.gif" width="90">
+I lead a DevOps team for Data Center Migration at Atos. Have worked closely with 5 of Fortune 500 clients. <img src="https://media.giphy.com/media/l0Wzs8nQIJyww/giphy.gif" width="150"><br/>
 I have also experience as a Docker meetup/event organizer.
 I love to read and meet new people. Inspiring and helping others to become better is something I am super passionate about. 
 
