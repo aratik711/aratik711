@@ -6,7 +6,7 @@ I love to read and meet new people. Inspiring and helping others to become bette
 
 
 ### 🔭 I’m currently working on
-Automating stuff (From user creation to deploying data centers)
+Automating everything :)
 ### 🌱 I’m currently learning
 Python, Ansible, Terraform, Azure
 ### 👯 I’m looking to collaborate on
