@@ -19,7 +19,8 @@ DevOps/SRE/Personal Financing/Movies/Books(Non-Fictional)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />](https://apassionatechie.wordpress.com/)
 [<img title="Blog" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7840437/arati-kulkarni)
 ### ⚡ Fun fact:
-"It can take a photon 40,000 years to travel from the core of the sun to the surface, but only 8 minutes to travel the rest of the way to earth." <br/>
+"It can take a photon 40,000 years to travel from the core of the sun to the surface, <br/>
+but only 8 minutes to travel the rest of the way to earth." <br/>
 <img src="https://media.giphy.com/media/4bpK2k0Yru5Us/giphy.gif" width="100">
 
 **Languages**<br/><br/>
