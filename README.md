@@ -48,10 +48,10 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
+- [ZooKeeper Election](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-election/)
+- [ZooKeeper Implementation](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-implementation/)
+- [Enable sse on virtual machine(kvm)](https://apassionatechie.wordpress.com/2020/03/05/enable-sse-on-virtual-machinekvm/)
+- [The Math behind Fibonacci Numbers](https://apassionatechie.wordpress.com/2019/12/30/the-math-behind-fibonacci-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
