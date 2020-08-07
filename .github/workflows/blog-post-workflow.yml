@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.0.9
         with:
           max_post_count: "4"
-          feed_list: "https://www.apassionatechie.wordpress.com/feed/"
+          feed_list: "https://apassionatechie.wordpress.com/feed/"
