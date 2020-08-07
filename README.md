@@ -48,6 +48,10 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
+- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
+- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
