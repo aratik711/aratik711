@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@1.0.9
         with:
-          feed_list: "https://www.apassionatechie.wordpress.com/feed/"
+          feed_list: "https://www.gautamkrishnar.com/feed/"
