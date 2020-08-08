@@ -13,4 +13,4 @@ jobs:
       - uses: aratik711/daily-blogs-news@master
         with:
           max_post_count: "4"
-          feed_list: "https://apassionatechie.wordpress.com/feed/"
+          feed_list: "https://sreweekly.com/feed/"
