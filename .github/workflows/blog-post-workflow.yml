@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs day at 9
-    - cron: '0 9 1 * *'
+    - cron: '* * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.0.9
+      - uses: aratik711/daily-blog-news@master
         with:
           max_post_count: "4"
-          feed_list: "https://apassionatechie.wordpress.com/feed/"
+          feed_list: "https://sreweekly.com/feed/"
