@@ -47,8 +47,8 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 [![Arati's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blog posts
-<!-- BLOG-LIST:START -->
-<!-- BLOG-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **aratik711/aratik711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
