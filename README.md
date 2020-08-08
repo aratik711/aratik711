@@ -47,12 +47,8 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 [![Arati's github stats](https://github-readme-stats.vercel.app/api?username=aratik711&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [ZooKeeper Election](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-election/)
-- [ZooKeeper Implementation](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-implementation/)
-- [Enable sse on virtual machine(kvm)](https://apassionatechie.wordpress.com/2020/03/05/enable-sse-on-virtual-machinekvm/)
-- [The Math behind Fibonacci Numbers](https://apassionatechie.wordpress.com/2019/12/30/the-math-behind-fibonacci-numbers/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-LIST:START -->
+<!-- BLOG-LIST:END -->
 
 <!--
 **aratik711/aratik711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
