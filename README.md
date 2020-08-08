@@ -48,10 +48,6 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 
 ### Blog posts
 <!-- BLOG-LIST:START -->
-- [ZooKeeper Election](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-election/)
-- [ZooKeeper Implementation](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-implementation/)
-- [Enable sse on virtual machine(kvm)](https://apassionatechie.wordpress.com/2020/03/05/enable-sse-on-virtual-machinekvm/)
-- [The Math behind Fibonacci Numbers](https://apassionatechie.wordpress.com/2019/12/30/the-math-behind-fibonacci-numbers/)
 <!-- BLOG-LIST:END -->
 
 <!--
