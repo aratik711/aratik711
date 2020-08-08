@@ -48,6 +48,10 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 
 ### Blog posts
 <!-- BLOG-LIST:START -->
+- [SRE Weekly Issue #230](https://sreweekly.com/sre-weekly-issue-230/)
+- [SRE Weekly Issue #229](https://sreweekly.com/sre-weekly-issue-229/)
+- [SRE Weekly Issue #228](https://sreweekly.com/sre-weekly-issue-228/)
+- [SRE Weekly Issue #227](https://sreweekly.com/sre-weekly-issue-227/)
 <!-- BLOG-LIST:END -->
 
 <!--
