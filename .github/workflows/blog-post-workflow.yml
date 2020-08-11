@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs day at 9
-    - cron: '0 9 1 * *'
+    - cron: '* * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -13,4 +13,4 @@ jobs:
       - uses: aratik711/daily-blogs-news@master
         with:
           max_post_count: "10"
-          feed_list: "https://sreweekly.com/feed/,https://devops.com/feed/"
+          feed_list: "https://apassionatechie.wordpress.com/feed"
