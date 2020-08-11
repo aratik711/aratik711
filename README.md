@@ -48,10 +48,16 @@ but only 8 minutes to travel the rest of the way to earth." <br/>
 
 ### Blog posts
 <!-- BLOG-LIST:START -->
-- [SRE Weekly Issue #230](https://sreweekly.com/sre-weekly-issue-230/)
-- [SRE Weekly Issue #229](https://sreweekly.com/sre-weekly-issue-229/)
-- [SRE Weekly Issue #228](https://sreweekly.com/sre-weekly-issue-228/)
-- [SRE Weekly Issue #227](https://sreweekly.com/sre-weekly-issue-227/)
+- [ZooKeeper Election](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-election/)
+- [ZooKeeper Implementation](https://apassionatechie.wordpress.com/2020/03/10/zookeeper-implementation/)
+- [Enable sse on virtual machine(kvm)](https://apassionatechie.wordpress.com/2020/03/05/enable-sse-on-virtual-machinekvm/)
+- [The Math behind Fibonacci Numbers](https://apassionatechie.wordpress.com/2019/12/30/the-math-behind-fibonacci-numbers/)
+- [Differences Among A, CNAME, ALIAS, and URL records](https://apassionatechie.wordpress.com/2019/12/15/differences-among-a-cname-alias-and-url-records/)
+- [how does salt work?](https://apassionatechie.wordpress.com/2019/12/15/how-does-salt-work/)
+- [Many processes are running for salt-master and salt-minion](https://apassionatechie.wordpress.com/2019/12/15/many-processes-are-running-for-salt-master-and-salt-minion/)
+- [Convert Timestamps to Become Readable With Influx DB’s CLI](https://apassionatechie.wordpress.com/2019/12/15/convert-timestamps-to-become-readable-with-influx-dbs-cli/)
+- [How do I find files that do not contain a given string pattern?](https://apassionatechie.wordpress.com/2019/12/01/how-do-i-find-files-that-do-not-contain-a-given-string-pattern/)
+- [Writing Custom OSSEC Rules](https://apassionatechie.wordpress.com/2019/12/01/writing-custom-ossec-rules/)
 <!-- BLOG-LIST:END -->
 
 <!--
